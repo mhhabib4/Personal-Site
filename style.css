@@ -84,7 +84,7 @@ p{
 .profile .top-weather-icon{
 position: absolute;
 right: 60px;
-top: 20px;
+top: 40px;
 transition: transform 2s;
 }
 .profile .top-weather-icon:hover{
